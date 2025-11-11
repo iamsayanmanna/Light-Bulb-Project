@@ -52,6 +52,9 @@ Learned to use JavaScript events
 
 Understood the basics of a web UI toggle system
 
+
+Project Demo/video : https://www.linkedin.com/posts/heysayanmanna_webdevelopment-frontenddevelopment-javascript-activity-7355602467067162624-f5YL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFn_J64Bpq1LvgDTxvihhSXPCLA8-GmtXpM
+
 👨‍💻 Author: Sayan Manna  
 Don't forget to ⭐ the repo if you enjoy this project!  
 
